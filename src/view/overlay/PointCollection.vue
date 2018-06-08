@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import "@/js/points-sample-data.js";
+import data from "@/js/points-sample-data.js";
 export default {
   name: "PointCollection",
   data() {

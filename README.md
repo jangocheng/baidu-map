@@ -8,6 +8,16 @@
 # install dependencies
 npm install
 
+# install Plugin    use cnpm 
+npm install vuex --save
+npm install -D sass-loader node-sass
+npm install axios
+npm i element-ui -S
+npm install font-awesome
+npm install echarts --save
+<script type="text/javascript" src="http://api.map.baidu.com/api?v=3.0&ak=?"></script>
+
+
 # serve with hot reload at localhost:8080
 npm run dev
 
